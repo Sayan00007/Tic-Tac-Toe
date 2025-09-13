@@ -14,8 +14,8 @@ body {
     flex-flow: column;
 }
 .game {
-    height: 60vmin;
-    width: 60vmin;
+    height: 70vmin;
+    width: 70vmin;
     display: flex;
     justify-content: center;
     align-items: center;
