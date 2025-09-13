@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+
+}
+.container {
+    text-align: center;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+.game {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+#reset {
+    height: 2.5rem;
+    width: 5rem;
+    border-radius: 10px;
+    border: 0;
+    background-color: chocolate;
+    color: white;
+    font-size:medium;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+}
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    background-color:azure;
+    border-radius: 10px;
+    font-size: 15vmin;
+    color: burlywood;
+}
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-size: xxx-large;
+    padding-top: 20px;
+}
